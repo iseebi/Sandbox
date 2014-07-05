@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryboardDemo1", "StoryboardDemo1\StoryboardDemo1.csproj", "{648D5B26-184B-4724-AB19-14658527AEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryboardDemo1_Finished", "StoryboardDemo1_Finished\StoryboardDemo1_Finished.csproj", "{41884B44-D125-400B-88CA-B48A4CB2ED81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryboardDemo2", "StoryboardDemo2\StoryboardDemo2.csproj", "{B79F1873-F802-4DCA-8631-1BE70276EFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Debug|iPhone.Build.0 = Debug|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Release|iPhone.ActiveCfg = Release|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Release|iPhone.Build.0 = Release|iPhone
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{41884B44-D125-400B-88CA-B48A4CB2ED81}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Debug|iPhone.Build.0 = Debug|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Release|iPhone.Build.0 = Release|iPhone
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{648D5B26-184B-4724-AB19-14658527AEC7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Release|iPhone.Build.0 = Release|iPhone
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B79F1873-F802-4DCA-8631-1BE70276EFF9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = StoryboardDemo2\StoryboardDemo2.csproj
+	EndGlobalSection
+EndGlobal
